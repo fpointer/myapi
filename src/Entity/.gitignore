@@ -1,0 +1,9 @@
+/var/
+/vendor/
+/public/bundles/
+/.env.local
+.env.*.local
+/.idea
+/.vscode
+/node_modules/
+/public/uploads/
